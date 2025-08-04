@@ -12,3 +12,4 @@ C:\Users\khobb\Desktop\300\Sem_2\318-progamming\dcit318-assignment1-11062226\Con
 C:\Users\khobb\Desktop\300\Sem_2\318-progamming\dcit318-assignment1-11062226\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.pdb
 C:\Users\khobb\Desktop\300\Sem_2\318-progamming\dcit318-assignment1-11062226\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.genruntimeconfig.cache
 C:\Users\khobb\Desktop\300\Sem_2\318-progamming\dcit318-assignment1-11062226\ConsoleApp1\obj\Debug\net9.0\ref\ConsoleApp1.dll
+C:\Users\khobb\Desktop\300\Sem_2\318-progamming\dcit318-assignment1-11062226\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.sourcelink.json
