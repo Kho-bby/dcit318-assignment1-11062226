@@ -1,0 +1,14 @@
+C:\Users\khobb\Desktop\300\Sem_2\318-progamming\dcit318-assignment1-11062226\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.exe
+C:\Users\khobb\Desktop\300\Sem_2\318-progamming\dcit318-assignment1-11062226\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.deps.json
+C:\Users\khobb\Desktop\300\Sem_2\318-progamming\dcit318-assignment1-11062226\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.runtimeconfig.json
+C:\Users\khobb\Desktop\300\Sem_2\318-progamming\dcit318-assignment1-11062226\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.dll
+C:\Users\khobb\Desktop\300\Sem_2\318-progamming\dcit318-assignment1-11062226\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.pdb
+C:\Users\khobb\Desktop\300\Sem_2\318-progamming\dcit318-assignment1-11062226\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khobb\Desktop\300\Sem_2\318-progamming\dcit318-assignment1-11062226\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\khobb\Desktop\300\Sem_2\318-progamming\dcit318-assignment1-11062226\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\khobb\Desktop\300\Sem_2\318-progamming\dcit318-assignment1-11062226\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\khobb\Desktop\300\Sem_2\318-progamming\dcit318-assignment1-11062226\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.dll
+C:\Users\khobb\Desktop\300\Sem_2\318-progamming\dcit318-assignment1-11062226\ConsoleApp1\obj\Debug\net9.0\refint\ConsoleApp1.dll
+C:\Users\khobb\Desktop\300\Sem_2\318-progamming\dcit318-assignment1-11062226\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.pdb
+C:\Users\khobb\Desktop\300\Sem_2\318-progamming\dcit318-assignment1-11062226\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\khobb\Desktop\300\Sem_2\318-progamming\dcit318-assignment1-11062226\ConsoleApp1\obj\Debug\net9.0\ref\ConsoleApp1.dll
